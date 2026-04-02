@@ -1,5 +1,3 @@
-Adflow-pro
-Ad automation tool
  🚀 Adflow Pro
 
 A smart ad automation tool for managing campaigns efficiently.
